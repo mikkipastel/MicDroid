@@ -144,4 +144,5 @@ public class Autotalent {
                                                      int numSamples);
 
     private static native void native_destroyAutotalent();
+
 }
